@@ -1,8 +1,8 @@
-# **Program Dictionary**
+# <p align="center">**Program Dictionary**
 ## **Tugas Praktikum**
 ___
 
-### *Perintah :*
+### **Perintah :**
 Buat program sederhana yang akan menampilkan daftar nilai
 mahasiswa, dengan ketentuan :
 1. Program dibuat dengan menggunakan Dictionary.
@@ -13,7 +13,7 @@ uts: 35%, uas: 35%).
 4. Buat flowchart dan penjelasan programnya pada README.md.
 5. Commit dan push repository ke github.
    
-### *[Program](program/Dictionary.py) :*
+### **[Program](program/Dictionary.py) :**
 ```sh
 dataMahasiswa = {}
 no = 0
@@ -99,7 +99,7 @@ while True:
         print("PILIHAN MENU TIDAK ADA!")
 ```
 
-### *Penjelasan :*
+### **Penjelasan :**
 1. Perintah ***L*** untuk melihat data.
 2. Perintah ***T*** untuk menambah data.
 3. Perintah ***U*** untuk merubah data.
@@ -107,35 +107,35 @@ while True:
 5. Perintah ***C*** untuk mencari data.
 6. Perintah ***K*** untuk keluar.
 
-### *Flowchart :*
+### **Flowchart :**
 
 
 
-### *Output Program :*
+### **Output Program :**
 
-**Output saat melihat data :** 
+#### **Output saat melihat data :** 
 >Menggunkan perintah " L "
 
 ![.](output/ss1.png)
 
-**Output saat tambah data :** 
+#### **Output saat tambah data :** 
 >Menggunakan Perintah " T "
 
 ![.](output/ss2.png)
 
 ![.](output/ss3.png)
 
-**Output saat merubah data :**
+#### **Output saat merubah data :**
 >Menggunakan perintah " U "
 
 ![.](output/udata.png)
 
-**Output saat menghapus data :**
+#### **Output saat menghapus data :**
 >Menggunakan perintah " H "
 
 ![.](output/hdata.png)
 
-**Output saat keluar program :**
+#### **Output saat keluar program :**
 >Menggunkan perintah " K "
 
 ![.](output/keluar.png)
